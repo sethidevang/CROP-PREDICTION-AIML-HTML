@@ -17,7 +17,6 @@ Farmers and users enter the following inputs:
 - 🌱 Nitrogen (N)
 - 🧬 Phosphorus (P)
 - 🧪 Potassium (K)
-- 🏜️ Soil Type (e.g., Sandy)
 
 The system then uses a machine learning model to **predict the most appropriate crop** for the given environment.
 
